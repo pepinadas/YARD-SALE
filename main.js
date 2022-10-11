@@ -45,6 +45,7 @@ function toggleCarritoAside () {
     aside.classList.toggle('inactive');
 }
 
+
 const productList = [];
 productList.push({
     name: 'Bike',
